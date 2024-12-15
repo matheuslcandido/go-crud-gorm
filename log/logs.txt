@@ -1,0 +1,489 @@
+INFO: 2024/12/15 09:14:26 main.go:29: Application started!
+INFO: 2024/12/15 09:15:13 main.go:29: Application started!
+INFO: 2024/12/15 09:15:13 main.go:31: Application finished!
+INFO: 2024/12/15 09:15:14 main.go:29: Application started!
+INFO: 2024/12/15 09:15:14 main.go:31: Application finished!
+INFO: 2024/12/15 09:15:15 main.go:29: Application started!
+INFO: 2024/12/15 09:15:15 main.go:31: Application finished!
+INFO: 2024/12/15 09:17:11 main.go:29: Application started!
+INFO: 2024/12/15 09:17:11 main.go:31: Application finished!
+INFO: 2024/12/15 09:23:27 main.go:13: Application started!
+INFO: 2024/12/15 09:23:27 connection.go:6: Starting connect on DB!
+INFO: 2024/12/15 09:23:27 connection.go:8: DB connected!
+INFO: 2024/12/15 09:23:27 main.go:17: Application finished!
+INFO: 2024/12/15 09:25:21 main.go:13: Application started!
+INFO: 2024/12/15 09:25:21 main.go:6: Starting connect on DB!
+INFO: 2024/12/15 09:25:21 main.go:8: DB connected!
+INFO: 2024/12/15 09:25:21 main.go:17: Application finished!
+INFO: 2024/12/15 09:25:22 main.go:13: Application started!
+INFO: 2024/12/15 09:25:22 main.go:6: Starting connect on DB!
+INFO: 2024/12/15 09:25:22 main.go:8: DB connected!
+INFO: 2024/12/15 09:25:22 main.go:17: Application finished!
+INFO: 2024/12/15 09:25:22 main.go:13: Application started!
+INFO: 2024/12/15 09:25:22 main.go:6: Starting connect on DB!
+INFO: 2024/12/15 09:25:22 main.go:8: DB connected!
+INFO: 2024/12/15 09:25:22 main.go:17: Application finished!
+INFO: 2024/12/15 09:25:23 main.go:13: Application started!
+INFO: 2024/12/15 09:25:23 main.go:6: Starting connect on DB!
+INFO: 2024/12/15 09:25:23 main.go:8: DB connected!
+INFO: 2024/12/15 09:25:23 main.go:17: Application finished!
+INFO: 2024/12/15 09:25:24 main.go:13: Application started!
+INFO: 2024/12/15 09:25:24 main.go:6: Starting connect on DB!
+INFO: 2024/12/15 09:25:24 main.go:8: DB connected!
+INFO: 2024/12/15 09:25:24 main.go:17: Application finished!
+INFO: 2024/12/15 09:25:25 main.go:13: Application started!
+INFO: 2024/12/15 09:25:25 main.go:6: Starting connect on DB!
+INFO: 2024/12/15 09:25:25 main.go:8: DB connected!
+INFO: 2024/12/15 09:25:25 main.go:17: Application finished!
+INFO: 2024/12/15 09:38:00 main.go:15: Starting connect on DB!
+ERROR: 2024/12/15 09:38:00 main.go:20: failed to connect to `host=localhost user=postgres database=postgres`: dial error (dial tcp 127.0.0.1:5432: connect: connection refused)
+INFO: 2024/12/15 09:38:30 main.go:15: Starting connect on DB!
+ERROR: 2024/12/15 09:38:30 main.go:20: failed to connect to `host=localhost user=postgres database=postgres`: failed SASL auth (FATAL: password authentication failed for user "postgres" (SQLSTATE 28P01))
+INFO: 2024/12/15 09:38:32 main.go:15: Starting connect on DB!
+ERROR: 2024/12/15 09:38:32 main.go:20: failed to connect to `host=localhost user=postgres database=postgres`: failed SASL auth (FATAL: password authentication failed for user "postgres" (SQLSTATE 28P01))
+INFO: 2024/12/15 09:38:57 main.go:15: Starting connect on DB!
+INFO: 2024/12/15 09:38:57 main.go:26: DB connected!
+INFO: 2024/12/15 09:38:57 main.go:21: Application started!
+INFO: 2024/12/15 09:38:57 main.go:15: Starting connect on DB!
+INFO: 2024/12/15 09:38:57 main.go:26: DB connected!
+INFO: 2024/12/15 09:38:57 main.go:25: Application finished!
+INFO: 2024/12/15 09:43:39 main.go:16: Starting connect on DB
+INFO: 2024/12/15 09:43:39 main.go:27: DB connected!
+INFO: 2024/12/15 09:43:39 main.go:29: Starting running migrations
+INFO: 2024/12/15 09:43:39 main.go:21: Application started
+INFO: 2024/12/15 09:43:39 main.go:16: Starting connect on DB
+INFO: 2024/12/15 09:43:39 main.go:27: DB connected!
+INFO: 2024/12/15 09:43:39 main.go:29: Starting running migrations
+INFO: 2024/12/15 09:43:39 main.go:25: Application finished
+INFO: 2024/12/15 09:44:46 main.go:16: Starting connect on DB
+INFO: 2024/12/15 09:44:46 main.go:27: DB connected
+INFO: 2024/12/15 09:44:46 main.go:29: Starting execute migrations
+INFO: 2024/12/15 09:44:46 main.go:37: Migrations executed
+INFO: 2024/12/15 09:44:46 main.go:21: Application started
+INFO: 2024/12/15 09:44:46 main.go:16: Starting connect on DB
+INFO: 2024/12/15 09:44:46 main.go:27: DB connected
+INFO: 2024/12/15 09:44:46 main.go:29: Starting execute migrations
+INFO: 2024/12/15 09:44:46 main.go:37: Migrations executed
+INFO: 2024/12/15 09:44:46 main.go:25: Application finished
+INFO: 2024/12/15 09:46:32 main.go:16: Starting connect on DB
+INFO: 2024/12/15 09:46:32 main.go:27: DB connected
+INFO: 2024/12/15 09:46:32 main.go:29: Starting execute migrations
+INFO: 2024/12/15 09:46:32 main.go:37: Migrations executed
+INFO: 2024/12/15 09:46:32 main.go:21: Application started
+INFO: 2024/12/15 09:46:32 main.go:22: Application finished
+INFO: 2024/12/15 09:51:06 main.go:16: Starting connect on DB
+INFO: 2024/12/15 09:51:06 main.go:27: DB connected
+INFO: 2024/12/15 09:51:06 main.go:29: Starting execute migrations
+INFO: 2024/12/15 09:51:06 main.go:37: Migrations executed
+INFO: 2024/12/15 09:51:06 main.go:28: Application started
+INFO: 2024/12/15 09:51:06 main.go:32: Application finished
+INFO: 2024/12/15 10:04:05 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:04:05 main.go:27: DB connected
+INFO: 2024/12/15 10:04:05 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:04:05 main.go:37: Migrations executed
+INFO: 2024/12/15 10:04:05 main.go:23: Application started
+INFO: 2024/12/15 10:04:05 product.go:10: Starting create product
+INFO: 2024/12/15 10:05:42 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:05:42 main.go:27: DB connected
+INFO: 2024/12/15 10:05:42 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:05:42 main.go:37: Migrations executed
+INFO: 2024/12/15 10:05:42 main.go:23: Application started
+INFO: 2024/12/15 10:05:42 product.go:10: Starting create product
+INFO: 2024/12/15 10:06:42 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:06:42 main.go:27: DB connected
+INFO: 2024/12/15 10:06:42 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:06:43 main.go:37: Migrations executed
+INFO: 2024/12/15 10:06:43 main.go:22: Application started
+INFO: 2024/12/15 10:06:43 main.go:25: Produto: &{{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 1969f44a-c77d-437d-baa1-3cea8350a914 first product 0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:06:43 main.go:27: Application finished
+INFO: 2024/12/15 10:07:05 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:07:05 main.go:27: DB connected
+INFO: 2024/12/15 10:07:05 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:07:05 main.go:37: Migrations executed
+INFO: 2024/12/15 10:07:05 main.go:23: Application started
+INFO: 2024/12/15 10:07:05 product.go:10: Starting create product
+INFO: 2024/12/15 10:07:47 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:07:47 main.go:27: DB connected
+INFO: 2024/12/15 10:07:47 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:07:47 main.go:37: Migrations executed
+INFO: 2024/12/15 10:07:47 main.go:23: Application started
+INFO: 2024/12/15 10:07:47 product.go:10: Starting create product
+INFO: 2024/12/15 10:07:47 product.go:14: Product created
+INFO: 2024/12/15 10:07:47 main.go:28: Application finished
+INFO: 2024/12/15 10:08:30 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:08:30 main.go:27: DB connected
+INFO: 2024/12/15 10:08:30 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:08:30 main.go:37: Migrations executed
+INFO: 2024/12/15 10:08:30 main.go:23: Application started
+INFO: 2024/12/15 10:08:30 product.go:10: Starting create product
+INFO: 2024/12/15 10:08:30 product.go:14: Product created
+INFO: 2024/12/15 10:08:30 main.go:27: Application finished
+INFO: 2024/12/15 10:16:02 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:16:02 main.go:27: DB connected
+INFO: 2024/12/15 10:16:02 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:16:02 main.go:37: Migrations executed
+INFO: 2024/12/15 10:16:02 main.go:23: Application started
+INFO: 2024/12/15 10:16:02 product.go:10: Starting create product
+INFO: 2024/12/15 10:16:02 product.go:14: Product created
+INFO: 2024/12/15 10:16:02 product.go:18: Starting create product
+INFO: 2024/12/15 10:16:02 product.go:22: Product created
+INFO: 2024/12/15 10:16:02 main.go:35: Application finished
+INFO: 2024/12/15 10:16:54 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:16:54 main.go:27: DB connected
+INFO: 2024/12/15 10:16:54 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:16:54 main.go:37: Migrations executed
+INFO: 2024/12/15 10:16:54 main.go:23: Application started
+INFO: 2024/12/15 10:16:54 product.go:10: Starting create product
+INFO: 2024/12/15 10:16:54 product.go:14: Product created
+INFO: 2024/12/15 10:16:54 product.go:18: Starting create products
+INFO: 2024/12/15 10:16:54 product.go:22: Products created
+INFO: 2024/12/15 10:16:54 main.go:35: Application finished
+INFO: 2024/12/15 10:18:06 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:18:06 main.go:27: DB connected
+INFO: 2024/12/15 10:18:06 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:18:06 main.go:37: Migrations executed
+INFO: 2024/12/15 10:18:06 main.go:23: Application started
+INFO: 2024/12/15 10:18:06 product.go:10: Starting create product
+INFO: 2024/12/15 10:18:06 product.go:14: Product created
+INFO: 2024/12/15 10:18:06 product.go:18: Starting create products
+INFO: 2024/12/15 10:18:06 product.go:22: Products created
+INFO: 2024/12/15 10:18:06 main.go:35: Application finished
+INFO: 2024/12/15 10:34:29 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:34:29 main.go:27: DB connected
+INFO: 2024/12/15 10:34:29 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:34:29 main.go:37: Migrations executed
+INFO: 2024/12/15 10:34:29 main.go:23: Application started
+INFO: 2024/12/15 10:34:29 product.go:10: Starting create product
+INFO: 2024/12/15 10:34:29 product.go:14: Product created
+INFO: 2024/12/15 10:34:29 product.go:18: Starting create products
+INFO: 2024/12/15 10:34:29 product.go:22: Products created
+INFO: 2024/12/15 10:34:29 product.go:26: Starting select product
+INFO: 2024/12/15 10:34:29 product.go:31: Product selected!
+INFO: 2024/12/15 10:34:29 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:34:29 main.go:39: Application finished
+INFO: 2024/12/15 10:38:15 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:38:15 main.go:27: DB connected
+INFO: 2024/12/15 10:38:15 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:38:15 main.go:37: Migrations executed
+INFO: 2024/12/15 10:38:15 main.go:23: Application started
+INFO: 2024/12/15 10:38:15 product.go:10: Starting create product
+INFO: 2024/12/15 10:38:15 product.go:14: Product created
+INFO: 2024/12/15 10:38:15 product.go:18: Starting create products
+INFO: 2024/12/15 10:38:15 product.go:22: Products created
+INFO: 2024/12/15 10:38:15 product.go:26: Starting select product
+INFO: 2024/12/15 10:38:15 product.go:31: Product selected!
+INFO: 2024/12/15 10:38:15 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:38:15 main.go:39: Application finished
+INFO: 2024/12/15 10:41:34 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:41:34 main.go:27: DB connected
+INFO: 2024/12/15 10:41:34 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:41:34 main.go:37: Migrations executed
+INFO: 2024/12/15 10:41:34 main.go:23: Application started
+INFO: 2024/12/15 10:41:34 product.go:10: Starting create product
+INFO: 2024/12/15 10:41:34 product.go:14: Product created
+INFO: 2024/12/15 10:41:34 product.go:18: Starting create products
+INFO: 2024/12/15 10:41:34 product.go:22: Products created
+INFO: 2024/12/15 10:41:34 product.go:26: Starting select product
+INFO: 2024/12/15 10:41:34 product.go:31: Product selected!
+INFO: 2024/12/15 10:41:34 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 700e13c3-44da-442d-8170-8e3750976ca3 first product 100 2024-12-15 10:41:34.626593 -0300 -03 2024-12-15 10:41:34.626593 -0300 -03}
+INFO: 2024/12/15 10:41:34 main.go:39: Application finished
+INFO: 2024/12/15 10:47:19 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:47:19 main.go:27: DB connected
+INFO: 2024/12/15 10:47:19 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:47:19 main.go:37: Migrations executed
+INFO: 2024/12/15 10:47:19 main.go:23: Application started
+INFO: 2024/12/15 10:47:19 product.go:10: Starting create product
+INFO: 2024/12/15 10:47:19 product.go:14: Product created
+INFO: 2024/12/15 10:47:19 product.go:18: Starting create products
+INFO: 2024/12/15 10:47:19 product.go:22: Products created
+INFO: 2024/12/15 10:47:19 product.go:26: Starting select product
+INFO: 2024/12/15 10:47:19 product.go:31: Product selected!
+INFO: 2024/12/15 10:47:19 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:47:19 main.go:39: Application finished
+INFO: 2024/12/15 10:47:43 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:47:43 main.go:27: DB connected
+INFO: 2024/12/15 10:47:43 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:47:43 main.go:37: Migrations executed
+INFO: 2024/12/15 10:47:43 main.go:23: Application started
+INFO: 2024/12/15 10:47:43 product.go:10: Starting create product
+INFO: 2024/12/15 10:47:43 product.go:14: Product created
+INFO: 2024/12/15 10:47:43 product.go:18: Starting create products
+INFO: 2024/12/15 10:47:43 product.go:22: Products created
+INFO: 2024/12/15 10:47:43 product.go:26: Starting select product
+INFO: 2024/12/15 10:47:43 product.go:31: Product selected!
+INFO: 2024/12/15 10:47:43 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:47:43 main.go:39: Application finished
+INFO: 2024/12/15 10:48:05 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:48:05 main.go:27: DB connected
+INFO: 2024/12/15 10:48:05 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:48:05 main.go:37: Migrations executed
+INFO: 2024/12/15 10:48:05 main.go:23: Application started
+INFO: 2024/12/15 10:48:05 product.go:10: Starting create product
+INFO: 2024/12/15 10:48:05 product.go:14: Product created
+INFO: 2024/12/15 10:48:05 product.go:18: Starting create products
+INFO: 2024/12/15 10:48:05 product.go:22: Products created
+INFO: 2024/12/15 10:48:05 product.go:26: Starting select product
+INFO: 2024/12/15 10:48:05 product.go:31: Product selected!
+INFO: 2024/12/15 10:48:05 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:48:05 main.go:39: Application finished
+INFO: 2024/12/15 10:49:25 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:49:25 main.go:27: DB connected
+INFO: 2024/12/15 10:49:25 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:49:25 main.go:37: Migrations executed
+INFO: 2024/12/15 10:49:25 main.go:23: Application started
+INFO: 2024/12/15 10:49:25 product.go:10: Starting create product
+INFO: 2024/12/15 10:49:25 product.go:14: Product created
+INFO: 2024/12/15 10:49:25 product.go:18: Starting create products
+INFO: 2024/12/15 10:49:25 product.go:22: Products created
+INFO: 2024/12/15 10:49:25 product.go:26: Starting select product
+INFO: 2024/12/15 10:49:26 product.go:31: Product selected!
+INFO: 2024/12/15 10:49:26 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:49:26 main.go:39: Application finished
+INFO: 2024/12/15 10:50:26 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:50:26 main.go:27: DB connected
+INFO: 2024/12/15 10:50:26 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:50:26 main.go:37: Migrations executed
+INFO: 2024/12/15 10:50:26 main.go:23: Application started
+INFO: 2024/12/15 10:50:26 product.go:10: Starting create product
+INFO: 2024/12/15 10:50:26 product.go:14: Product created
+INFO: 2024/12/15 10:50:26 product.go:18: Starting create products
+INFO: 2024/12/15 10:50:26 product.go:22: Products created
+INFO: 2024/12/15 10:50:26 product.go:26: Starting select product
+INFO: 2024/12/15 10:50:26 product.go:31: Product selected!
+INFO: 2024/12/15 10:50:26 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:50:26 main.go:39: Application finished
+INFO: 2024/12/15 10:51:08 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:51:08 main.go:27: DB connected
+INFO: 2024/12/15 10:51:08 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:51:08 main.go:37: Migrations executed
+INFO: 2024/12/15 10:51:08 main.go:23: Application started
+INFO: 2024/12/15 10:51:08 product.go:10: Starting create product
+INFO: 2024/12/15 10:51:08 product.go:14: Product created
+INFO: 2024/12/15 10:51:08 product.go:18: Starting create products
+INFO: 2024/12/15 10:51:08 product.go:22: Products created
+INFO: 2024/12/15 10:51:08 product.go:26: Starting select product
+INFO: 2024/12/15 10:51:08 product.go:31: Product selected!
+INFO: 2024/12/15 10:51:08 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:51:08 main.go:39: Application finished
+INFO: 2024/12/15 10:51:55 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:51:55 main.go:27: DB connected
+INFO: 2024/12/15 10:51:55 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:51:55 main.go:37: Migrations executed
+INFO: 2024/12/15 10:51:55 main.go:23: Application started
+INFO: 2024/12/15 10:51:55 product.go:10: Starting create product
+INFO: 2024/12/15 10:51:55 product.go:14: Product created
+INFO: 2024/12/15 10:51:55 product.go:18: Starting create products
+INFO: 2024/12/15 10:51:55 product.go:22: Products created
+INFO: 2024/12/15 10:51:55 product.go:26: Starting select product
+INFO: 2024/12/15 10:51:55 product.go:31: Product selected!
+INFO: 2024/12/15 10:51:55 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:51:55 main.go:39: Application finished
+INFO: 2024/12/15 10:52:42 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:52:42 main.go:27: DB connected
+INFO: 2024/12/15 10:52:42 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:52:42 main.go:37: Migrations executed
+INFO: 2024/12/15 10:52:42 main.go:23: Application started
+INFO: 2024/12/15 10:52:42 product.go:10: Starting create product
+INFO: 2024/12/15 10:52:42 product.go:14: Product created
+INFO: 2024/12/15 10:52:42 product.go:18: Starting create products
+INFO: 2024/12/15 10:52:42 product.go:22: Products created
+INFO: 2024/12/15 10:52:42 product.go:26: Starting select product
+INFO: 2024/12/15 10:52:42 product.go:31: Product selected!
+INFO: 2024/12/15 10:52:42 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}
+INFO: 2024/12/15 10:52:42 main.go:39: Application finished
+INFO: 2024/12/15 10:59:46 main.go:16: Starting connect on DB
+INFO: 2024/12/15 10:59:46 main.go:27: DB connected
+INFO: 2024/12/15 10:59:46 main.go:29: Starting execute migrations
+INFO: 2024/12/15 10:59:46 main.go:37: Migrations executed
+INFO: 2024/12/15 10:59:46 main.go:23: Application started
+INFO: 2024/12/15 10:59:46 product.go:10: Starting create product
+INFO: 2024/12/15 10:59:46 product.go:14: Product created
+INFO: 2024/12/15 10:59:46 product.go:18: Starting create products
+INFO: 2024/12/15 10:59:46 product.go:22: Products created
+INFO: 2024/12/15 10:59:46 product.go:26: Starting select product
+INFO: 2024/12/15 10:59:46 product.go:31: Product selected!
+INFO: 2024/12/15 10:59:46 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} cbcd4c8d-ae5c-4448-b67e-c4db4fb08c3f first product 100 2024-12-15 10:59:46.987756 -0300 -03 2024-12-15 10:59:46.987756 -0300 -03}
+INFO: 2024/12/15 10:59:46 main.go:39: Application finished
+INFO: 2024/12/15 11:00:07 main.go:16: Starting connect on DB
+INFO: 2024/12/15 11:00:07 main.go:27: DB connected
+INFO: 2024/12/15 11:00:07 main.go:29: Starting execute migrations
+INFO: 2024/12/15 11:00:07 main.go:37: Migrations executed
+INFO: 2024/12/15 11:00:07 main.go:23: Application started
+INFO: 2024/12/15 11:00:07 product.go:10: Starting create product
+INFO: 2024/12/15 11:00:07 product.go:14: Product created
+INFO: 2024/12/15 11:00:07 product.go:18: Starting create products
+INFO: 2024/12/15 11:00:07 product.go:22: Products created
+INFO: 2024/12/15 11:00:07 product.go:26: Starting select product
+INFO: 2024/12/15 11:00:07 product.go:31: Product selected!
+INFO: 2024/12/15 11:00:07 main.go:37: Produto1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} a2efbb69-dfe6-41a5-9593-62982774344d first product 100 2024-12-15 11:00:07.687577 -0300 -03 2024-12-15 11:00:07.687577 -0300 -03}
+INFO: 2024/12/15 11:00:07 main.go:39: Application finished
+INFO: 2024/12/15 11:06:53 main.go:16: Starting connect on DB
+INFO: 2024/12/15 11:06:53 main.go:27: DB connected
+INFO: 2024/12/15 11:06:53 main.go:29: Starting execute migrations
+INFO: 2024/12/15 11:06:53 main.go:37: Migrations executed
+INFO: 2024/12/15 11:06:53 main.go:23: Application started
+INFO: 2024/12/15 11:06:53 product.go:10: Starting create product
+INFO: 2024/12/15 11:06:53 product.go:14: Product created
+INFO: 2024/12/15 11:06:53 product.go:18: Starting create products
+INFO: 2024/12/15 11:06:53 product.go:22: Products created
+INFO: 2024/12/15 11:06:53 product.go:26: Starting select product
+INFO: 2024/12/15 11:06:53 product.go:31: Product selected!
+INFO: 2024/12/15 11:06:53 main.go:36: Product1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 616ccfc7-de19-431d-baee-23b1874aa31e first product 100 2024-12-15 11:06:53.454003 -0300 -03 2024-12-15 11:06:53.454003 -0300 -03}
+INFO: 2024/12/15 11:06:53 product.go:37: Starting select all products
+INFO: 2024/12/15 11:06:53 product.go:42: All Products selecteds
+INFO: 2024/12/15 11:06:53 main.go:41: All Products: %v{{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} a2efbb69-dfe6-41a5-9593-62982774344d first product 100 2024-12-15 11:00:07.687577 -0300 -03 2024-12-15 11:00:07.687577 -0300 -03}
+INFO: 2024/12/15 11:06:53 main.go:41: All Products: %v{{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 5f3a9d0f-aeaf-421e-92e2-d7d7c9989c9f second product 200 2024-12-15 11:00:07.700745 -0300 -03 2024-12-15 11:00:07.700745 -0300 -03}
+INFO: 2024/12/15 11:06:53 main.go:41: All Products: %v{{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} da6317ba-56e4-4160-9195-c81dc33e7cd6 third product 300 2024-12-15 11:00:07.700745 -0300 -03 2024-12-15 11:00:07.700745 -0300 -03}
+INFO: 2024/12/15 11:06:53 main.go:41: All Products: %v{{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 616ccfc7-de19-431d-baee-23b1874aa31e first product 100 2024-12-15 11:06:53.454003 -0300 -03 2024-12-15 11:06:53.454003 -0300 -03}
+INFO: 2024/12/15 11:06:53 main.go:41: All Products: %v{{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 5710fce4-fc8c-4d41-abe1-95d456763088 second product 200 2024-12-15 11:06:53.458276 -0300 -03 2024-12-15 11:06:53.458276 -0300 -03}
+INFO: 2024/12/15 11:06:53 main.go:41: All Products: %v{{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 828dc24a-714d-41b7-90e5-23f18489f21c third product 300 2024-12-15 11:06:53.458276 -0300 -03 2024-12-15 11:06:53.458276 -0300 -03}
+INFO: 2024/12/15 11:06:53 main.go:44: Application finished
+INFO: 2024/12/15 11:07:20 main.go:16: Starting connect on DB
+INFO: 2024/12/15 11:07:20 main.go:27: DB connected
+INFO: 2024/12/15 11:07:20 main.go:29: Starting execute migrations
+INFO: 2024/12/15 11:07:20 main.go:37: Migrations executed
+INFO: 2024/12/15 11:07:20 main.go:23: Application started
+INFO: 2024/12/15 11:07:20 product.go:10: Starting create product
+INFO: 2024/12/15 11:07:20 product.go:14: Product created
+INFO: 2024/12/15 11:07:20 product.go:18: Starting create products
+INFO: 2024/12/15 11:07:20 product.go:22: Products created
+INFO: 2024/12/15 11:07:20 product.go:26: Starting select product
+INFO: 2024/12/15 11:07:20 product.go:31: Product selected!
+INFO: 2024/12/15 11:07:20 main.go:36: Product1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} bdd54f5a-90cc-449e-b884-b3fed4fb2ea2 first product 100 2024-12-15 11:07:20.703744 -0300 -03 2024-12-15 11:07:20.703744 -0300 -03}
+INFO: 2024/12/15 11:07:20 product.go:37: Starting select all products
+INFO: 2024/12/15 11:07:20 product.go:42: All Products selecteds
+INFO: 2024/12/15 11:07:20 main.go:41: All Products: %v{{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} bdd54f5a-90cc-449e-b884-b3fed4fb2ea2 first product 100 2024-12-15 11:07:20.703744 -0300 -03 2024-12-15 11:07:20.703744 -0300 -03}
+INFO: 2024/12/15 11:07:20 main.go:41: All Products: %v{{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 4ad8f0ed-ecaa-4c66-8868-cdf12f7badec second product 200 2024-12-15 11:07:20.716551 -0300 -03 2024-12-15 11:07:20.716551 -0300 -03}
+INFO: 2024/12/15 11:07:20 main.go:41: All Products: %v{{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 2112c558-d5ad-4b28-bf3b-d95b786d99b8 third product 300 2024-12-15 11:07:20.716551 -0300 -03 2024-12-15 11:07:20.716551 -0300 -03}
+INFO: 2024/12/15 11:07:20 main.go:44: Application finished
+INFO: 2024/12/15 11:14:13 main.go:16: Starting connect on DB
+INFO: 2024/12/15 11:14:13 main.go:27: DB connected
+INFO: 2024/12/15 11:14:13 main.go:29: Starting execute migrations
+INFO: 2024/12/15 11:14:13 main.go:37: Migrations executed
+INFO: 2024/12/15 11:14:13 main.go:23: Application started
+INFO: 2024/12/15 11:14:13 product.go:10: Starting create product
+INFO: 2024/12/15 11:14:13 product.go:14: Product created
+INFO: 2024/12/15 11:14:13 product.go:18: Starting create products
+INFO: 2024/12/15 11:14:13 product.go:22: Products created
+INFO: 2024/12/15 11:14:13 product.go:48: Starting update product
+INFO: 2024/12/15 11:14:13 product.go:56: Product updated
+INFO: 2024/12/15 11:14:13 product.go:26: Starting select product
+INFO: 2024/12/15 11:14:13 product.go:31: Product selected!
+INFO: 2024/12/15 11:14:13 main.go:39: Product1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 287b9d38-89e4-48d0-9ff7-7581ea2e11e0 First product updated 100 0000-12-31 20:53:32 -0306 LMT 2024-12-15 11:14:13.687486 -0300 -03}
+INFO: 2024/12/15 11:14:13 product.go:37: Starting select all products
+INFO: 2024/12/15 11:14:13 product.go:42: All Products selecteds
+INFO: 2024/12/15 11:14:13 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} bdd54f5a-90cc-449e-b884-b3fed4fb2ea2 first product 100 2024-12-15 11:07:20.703744 -0300 -03 2024-12-15 11:07:20.703744 -0300 -03}
+INFO: 2024/12/15 11:14:13 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 4ad8f0ed-ecaa-4c66-8868-cdf12f7badec second product 200 2024-12-15 11:07:20.716551 -0300 -03 2024-12-15 11:07:20.716551 -0300 -03}
+INFO: 2024/12/15 11:14:13 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 2112c558-d5ad-4b28-bf3b-d95b786d99b8 third product 300 2024-12-15 11:07:20.716551 -0300 -03 2024-12-15 11:07:20.716551 -0300 -03}
+INFO: 2024/12/15 11:14:13 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 287b9d38-89e4-48d0-9ff7-7581ea2e11e0 First product updated 100 0000-12-31 20:53:32 -0306 LMT 2024-12-15 11:14:13.687486 -0300 -03}
+INFO: 2024/12/15 11:14:13 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 8755f2b1-818a-430b-aab9-8fe84febb836 second product 200 2024-12-15 11:14:13.682231 -0300 -03 2024-12-15 11:14:13.682231 -0300 -03}
+INFO: 2024/12/15 11:14:13 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} df8990fd-35a5-4384-895b-8601f3a61e4c third product 300 2024-12-15 11:14:13.682231 -0300 -03 2024-12-15 11:14:13.682231 -0300 -03}
+INFO: 2024/12/15 11:14:13 main.go:46: Application finished
+INFO: 2024/12/15 11:14:46 main.go:16: Starting connect on DB
+INFO: 2024/12/15 11:14:47 main.go:27: DB connected
+INFO: 2024/12/15 11:14:47 main.go:29: Starting execute migrations
+INFO: 2024/12/15 11:14:47 main.go:37: Migrations executed
+INFO: 2024/12/15 11:14:47 main.go:23: Application started
+INFO: 2024/12/15 11:14:47 product.go:10: Starting create product
+INFO: 2024/12/15 11:14:47 product.go:14: Product created
+INFO: 2024/12/15 11:14:47 product.go:18: Starting create products
+INFO: 2024/12/15 11:14:47 product.go:22: Products created
+INFO: 2024/12/15 11:14:47 product.go:48: Starting update product
+INFO: 2024/12/15 11:14:47 product.go:56: Product updated
+INFO: 2024/12/15 11:14:47 product.go:26: Starting select product
+INFO: 2024/12/15 11:14:47 product.go:31: Product selected!
+INFO: 2024/12/15 11:14:47 main.go:39: Product1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 1411f3fe-bd59-4c99-b777-797c6f29f966 First product updated 100 0000-12-31 20:53:32 -0306 LMT 2024-12-15 11:14:47.07719 -0300 -03}
+INFO: 2024/12/15 11:14:47 product.go:37: Starting select all products
+INFO: 2024/12/15 11:14:47 product.go:42: All Products selecteds
+INFO: 2024/12/15 11:14:47 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 1411f3fe-bd59-4c99-b777-797c6f29f966 First product updated 100 0000-12-31 20:53:32 -0306 LMT 2024-12-15 11:14:47.07719 -0300 -03}
+INFO: 2024/12/15 11:14:47 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 18b858dd-a9aa-49ab-93eb-1a6188c88a58 second product 200 2024-12-15 11:14:47.072794 -0300 -03 2024-12-15 11:14:47.072794 -0300 -03}
+INFO: 2024/12/15 11:14:47 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 4b9618d2-8b78-4ff9-bc2e-cea80e3a92a0 third product 300 2024-12-15 11:14:47.072794 -0300 -03 2024-12-15 11:14:47.072794 -0300 -03}
+INFO: 2024/12/15 11:14:47 main.go:46: Application finished
+INFO: 2024/12/15 11:15:49 main.go:16: Starting connect on DB
+INFO: 2024/12/15 11:15:49 main.go:27: DB connected
+INFO: 2024/12/15 11:15:49 main.go:29: Starting execute migrations
+INFO: 2024/12/15 11:15:50 main.go:37: Migrations executed
+INFO: 2024/12/15 11:15:50 main.go:23: Application started
+INFO: 2024/12/15 11:15:50 product.go:10: Starting create product
+INFO: 2024/12/15 11:15:50 product.go:14: Product created
+INFO: 2024/12/15 11:15:50 product.go:18: Starting create products
+INFO: 2024/12/15 11:15:50 product.go:22: Products created
+INFO: 2024/12/15 11:15:50 product.go:26: Starting select product
+INFO: 2024/12/15 11:15:50 product.go:31: Product selected!
+INFO: 2024/12/15 11:15:50 main.go:36: Product1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 061c5a9c-8105-4a1a-a447-8081983a1e79 first product 100 2024-12-15 11:15:50.030126 -0300 -03 2024-12-15 11:15:50.030126 -0300 -03}
+INFO: 2024/12/15 11:15:50 product.go:48: Starting update product
+INFO: 2024/12/15 11:15:50 product.go:56: Product updated
+INFO: 2024/12/15 11:15:50 product.go:37: Starting select all products
+INFO: 2024/12/15 11:15:50 product.go:42: All Products selecteds
+INFO: 2024/12/15 11:15:50 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 061c5a9c-8105-4a1a-a447-8081983a1e79 First product updated 100 0000-12-31 20:53:32 -0306 LMT 2024-12-15 11:15:50.069407 -0300 -03}
+INFO: 2024/12/15 11:15:50 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 52f7085d-59ef-41e1-88af-1f7b75eba262 second product 200 2024-12-15 11:15:50.044783 -0300 -03 2024-12-15 11:15:50.044783 -0300 -03}
+INFO: 2024/12/15 11:15:50 main.go:43: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 1376785d-e8c9-4e45-a818-b0bc8f59eb54 third product 300 2024-12-15 11:15:50.044783 -0300 -03 2024-12-15 11:15:50.044783 -0300 -03}
+INFO: 2024/12/15 11:15:50 main.go:46: Application finished
+INFO: 2024/12/15 11:18:01 main.go:16: Starting connect on DB
+INFO: 2024/12/15 11:18:01 main.go:27: DB connected
+INFO: 2024/12/15 11:18:01 main.go:29: Starting execute migrations
+INFO: 2024/12/15 11:18:01 main.go:37: Migrations executed
+INFO: 2024/12/15 11:18:01 main.go:23: Application started
+INFO: 2024/12/15 11:18:01 product.go:10: Starting create product
+INFO: 2024/12/15 11:18:01 product.go:14: Product created
+INFO: 2024/12/15 11:18:01 product.go:18: Starting create products
+INFO: 2024/12/15 11:18:01 product.go:22: Products created
+INFO: 2024/12/15 11:18:01 product.go:26: Starting select product
+INFO: 2024/12/15 11:18:01 product.go:31: Product selected!
+INFO: 2024/12/15 11:18:01 main.go:36: Product1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 1d5375a1-85bc-45eb-a767-2b60e2ea107f first product 100 2024-12-15 11:18:01.541103 -0300 -03 2024-12-15 11:18:01.541103 -0300 -03}
+INFO: 2024/12/15 11:18:01 product.go:48: Starting update product
+INFO: 2024/12/15 11:18:01 product.go:56: Product updated
+INFO: 2024/12/15 11:18:01 product.go:60: Starting delete product
+INFO: 2024/12/15 11:18:01 product.go:64: Product deleted
+INFO: 2024/12/15 11:18:01 product.go:37: Starting select all products
+INFO: 2024/12/15 11:18:01 product.go:42: All Products selecteds
+INFO: 2024/12/15 11:18:01 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 061c5a9c-8105-4a1a-a447-8081983a1e79 First product updated 100 0000-12-31 20:53:32 -0306 LMT 2024-12-15 11:15:50.069407 -0300 -03}
+INFO: 2024/12/15 11:18:01 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 52f7085d-59ef-41e1-88af-1f7b75eba262 second product 200 2024-12-15 11:15:50.044783 -0300 -03 2024-12-15 11:15:50.044783 -0300 -03}
+INFO: 2024/12/15 11:18:01 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 1376785d-e8c9-4e45-a818-b0bc8f59eb54 third product 300 2024-12-15 11:15:50.044783 -0300 -03 2024-12-15 11:15:50.044783 -0300 -03}
+INFO: 2024/12/15 11:18:01 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 1d5375a1-85bc-45eb-a767-2b60e2ea107f First product updated 100 0000-12-31 20:53:32 -0306 LMT 2024-12-15 11:18:01.560373 -0300 -03}
+INFO: 2024/12/15 11:18:01 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 2f39f481-4b5b-4a18-b97e-5af1dac20213 second product 200 2024-12-15 11:18:01.553766 -0300 -03 2024-12-15 11:18:01.553766 -0300 -03}
+INFO: 2024/12/15 11:18:01 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 71d2a603-178d-4d76-8516-30391caf26d4 third product 300 2024-12-15 11:18:01.553766 -0300 -03 2024-12-15 11:18:01.553766 -0300 -03}
+INFO: 2024/12/15 11:18:01 main.go:48: Application finished
+INFO: 2024/12/15 11:18:26 main.go:16: Starting connect on DB
+INFO: 2024/12/15 11:18:26 main.go:27: DB connected
+INFO: 2024/12/15 11:18:26 main.go:29: Starting execute migrations
+INFO: 2024/12/15 11:18:26 main.go:37: Migrations executed
+INFO: 2024/12/15 11:18:26 main.go:23: Application started
+INFO: 2024/12/15 11:18:26 product.go:10: Starting create product
+INFO: 2024/12/15 11:18:26 product.go:14: Product created
+INFO: 2024/12/15 11:18:26 product.go:18: Starting create products
+INFO: 2024/12/15 11:18:26 product.go:22: Products created
+INFO: 2024/12/15 11:18:26 product.go:26: Starting select product
+INFO: 2024/12/15 11:18:26 product.go:31: Product selected!
+INFO: 2024/12/15 11:18:26 main.go:36: Product1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} baedb0a7-1c9c-4f1b-9845-96f87f7614ce first product 100 2024-12-15 11:18:26.123798 -0300 -03 2024-12-15 11:18:26.123798 -0300 -03}
+INFO: 2024/12/15 11:18:26 product.go:48: Starting update product
+INFO: 2024/12/15 11:18:26 product.go:56: Product updated
+INFO: 2024/12/15 11:18:26 product.go:60: Starting delete product
+INFO: 2024/12/15 11:18:26 product.go:64: Product deleted
+INFO: 2024/12/15 11:18:26 product.go:37: Starting select all products
+INFO: 2024/12/15 11:18:26 product.go:42: All Products selecteds
+INFO: 2024/12/15 11:18:26 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} baedb0a7-1c9c-4f1b-9845-96f87f7614ce First product updated 100 0000-12-31 20:53:32 -0306 LMT 2024-12-15 11:18:26.145388 -0300 -03}
+INFO: 2024/12/15 11:18:26 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 473d789d-a05d-4606-9c1b-3ed8428af09a second product 200 2024-12-15 11:18:26.139229 -0300 -03 2024-12-15 11:18:26.139229 -0300 -03}
+INFO: 2024/12/15 11:18:26 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 97aff3a3-5e5b-4621-ba1b-fd8ecebe26d5 third product 300 2024-12-15 11:18:26.139229 -0300 -03 2024-12-15 11:18:26.139229 -0300 -03}
+INFO: 2024/12/15 11:18:26 main.go:48: Application finished
+INFO: 2024/12/15 11:19:56 main.go:16: Starting connect on DB
+INFO: 2024/12/15 11:19:56 main.go:27: DB connected
+INFO: 2024/12/15 11:19:56 main.go:29: Starting execute migrations
+INFO: 2024/12/15 11:19:56 main.go:37: Migrations executed
+INFO: 2024/12/15 11:19:56 main.go:23: Application started
+INFO: 2024/12/15 11:19:56 product.go:10: Starting create product
+INFO: 2024/12/15 11:19:56 product.go:14: Product created
+INFO: 2024/12/15 11:19:56 product.go:18: Starting create products
+INFO: 2024/12/15 11:19:56 product.go:22: Products created
+INFO: 2024/12/15 11:19:56 product.go:26: Starting select product
+INFO: 2024/12/15 11:19:56 product.go:31: Product selected!
+INFO: 2024/12/15 11:19:56 main.go:36: Product1: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} acefc82d-0ff2-456d-9be4-b9d5eba4cc1a first product 100 2024-12-15 11:19:56.842269 -0300 -03 2024-12-15 11:19:56.842269 -0300 -03}
+INFO: 2024/12/15 11:19:56 product.go:48: Starting update product
+INFO: 2024/12/15 11:19:56 product.go:56: Product updated
+INFO: 2024/12/15 11:19:56 product.go:60: Starting delete product
+INFO: 2024/12/15 11:19:56 product.go:67: Product deleted
+INFO: 2024/12/15 11:19:56 product.go:37: Starting select all products
+INFO: 2024/12/15 11:19:56 product.go:42: All Products selecteds
+INFO: 2024/12/15 11:19:56 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 30bb8866-6ba0-4fff-b375-b0abbe8ef05a third product 300 2024-12-15 11:19:56.866167 -0300 -03 2024-12-15 11:19:56.866167 -0300 -03}
+INFO: 2024/12/15 11:19:56 main.go:45: All Products: {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} acefc82d-0ff2-456d-9be4-b9d5eba4cc1a First product updated 100 0000-12-31 20:53:32 -0306 LMT 2024-12-15 11:19:56.87068 -0300 -03}
+INFO: 2024/12/15 11:19:56 main.go:48: Application finished
